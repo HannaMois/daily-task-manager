@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/daily-task-manager/static/css/main.eab11e58.css",
+    "main.js": "/daily-task-manager/static/js/main.13242933.js",
+    "static/js/330.70652be5.chunk.js": "/daily-task-manager/static/js/330.70652be5.chunk.js",
+    "static/js/897.06846f09.chunk.js": "/daily-task-manager/static/js/897.06846f09.chunk.js",
+    "static/css/241.f312bbe6.chunk.css": "/daily-task-manager/static/css/241.f312bbe6.chunk.css",
+    "static/js/241.d4c6f335.chunk.js": "/daily-task-manager/static/js/241.d4c6f335.chunk.js",
+    "static/js/828.800a20ea.chunk.js": "/daily-task-manager/static/js/828.800a20ea.chunk.js",
+    "static/media/balloon1-min.png": "/daily-task-manager/static/media/balloon1-min.8f300eed3f86648954eb.png",
+    "static/media/cloud3-min.png": "/daily-task-manager/static/media/cloud3-min.46d9f1bf0153da410b16.png",
+    "static/media/forest-min.png": "/daily-task-manager/static/media/forest-min.e804122615da719028e6.png",
+    "static/media/background-min.jpg": "/daily-task-manager/static/media/background-min.8e0e587daa9be15757fa.jpg",
+    "static/media/cloud2-min.png": "/daily-task-manager/static/media/cloud2-min.52571a7f522b2e23c1a2.png",
+    "static/media/cloud1-min.png": "/daily-task-manager/static/media/cloud1-min.e8cb9affba4fa1608cb8.png",
+    "static/media/balloon2-min.png": "/daily-task-manager/static/media/balloon2-min.44990dc59eb7d2ced7c6.png",
+    "static/media/moon-min.png": "/daily-task-manager/static/media/moon-min.587772e904bdea6a28f7.png",
+    "static/media/default-avatar.png": "/daily-task-manager/static/media/default-avatar.630fb0190b0fa104f8d6.png",
+    "static/media/sun-min.png": "/daily-task-manager/static/media/sun-min.527c3865f365b0027083.png",
+    "index.html": "/daily-task-manager/index.html",
+    "static/media/close.svg": "/daily-task-manager/static/media/close.7f5e241076aa8c68c0f01b4cbe98d66f.svg",
+    "main.eab11e58.css.map": "/daily-task-manager/static/css/main.eab11e58.css.map",
+    "main.13242933.js.map": "/daily-task-manager/static/js/main.13242933.js.map",
+    "330.70652be5.chunk.js.map": "/daily-task-manager/static/js/330.70652be5.chunk.js.map",
+    "897.06846f09.chunk.js.map": "/daily-task-manager/static/js/897.06846f09.chunk.js.map",
+    "241.f312bbe6.chunk.css.map": "/daily-task-manager/static/css/241.f312bbe6.chunk.css.map",
+    "241.d4c6f335.chunk.js.map": "/daily-task-manager/static/js/241.d4c6f335.chunk.js.map",
+    "828.800a20ea.chunk.js.map": "/daily-task-manager/static/js/828.800a20ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eab11e58.css",
+    "static/js/main.13242933.js"
+  ]
+}
